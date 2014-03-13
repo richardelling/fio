@@ -113,7 +113,7 @@ struct group_run_stats {
 					list of percentiles */
 
 #define MAX_PATTERN_SIZE	512
-#define FIO_JOBNAME_SIZE	128
+#define FIO_JOBNAME_SIZE	1280
 #define FIO_VERROR_SIZE		128
 
 struct thread_stat {
